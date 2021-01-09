@@ -1,8 +1,7 @@
 <?php
 
-require 'vendor/autoload.php';
-
 use GuzzleHttp\Client;
+require 'vendor/autoload.php';
 
 $client = new Client();
 $response = $client->request('GET', 'https://itea.ua/');
