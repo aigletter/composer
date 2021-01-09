@@ -1,8 +1,0 @@
-{
-    "name": "andrey/my_package",
-    "description": "My first test package for packagist",
-    "type": "library",
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {}
-}
