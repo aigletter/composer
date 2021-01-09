@@ -1,6 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
+use andrey_naidyonov\my_package\Animal;
 
 $cat = new Animal();
 $cat->name = 'Murchik';
