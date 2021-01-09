@@ -1,6 +1,6 @@
 <?php
 
-require '../my_package/classes/Animal.php'; 
+require 'vendor/autoload.php';
 
 $cat = new Animal();
 $cat->name = 'Murchik';

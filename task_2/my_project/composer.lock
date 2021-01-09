@@ -4,8 +4,36 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eec18edb5f5c70a8f87f8ac0f4ddf6e4",
-    "packages": [],
+    "content-hash": "bd57b1476172be342abf38f05cdffe5a",
+    "packages": [
+        {
+            "name": "andrey_naidyonov/my_package",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andhellen/my_package.git",
+                "reference": "657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andhellen/my_package/zipball/657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6",
+                "reference": "657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "My first test package for packagist",
+            "support": {
+                "issues": "https://github.com/andhellen/my_package/issues",
+                "source": "https://github.com/andhellen/my_package/tree/main"
+            },
+            "time": "2021-01-07T18:13:08+00:00"
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",

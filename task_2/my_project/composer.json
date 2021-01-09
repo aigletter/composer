@@ -4,7 +4,6 @@
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
     "require": {
 	"andrey_naidyonov/my_package":"*"
     }
