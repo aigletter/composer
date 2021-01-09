@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '61fd103fb4515a34fb61de2c173e47fdd402ee87',
+    'reference' => 'e50ebdb3bbbcf41f9efbf50a57669fa3fa736ff7',
     'name' => 'andrey/my_project',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '61fd103fb4515a34fb61de2c173e47fdd402ee87',
+      'reference' => 'e50ebdb3bbbcf41f9efbf50a57669fa3fa736ff7',
     ),
     'andrey_naidyonov/my_package' => 
     array (
@@ -28,7 +28,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6',
+      'reference' => '88dc09b3e71ff009e253e1286f35caf6930d3588',
     ),
   ),
 );

@@ -6,4 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'andrey_naidyonov\\my_package\\' => array($vendorDir . '/andrey_naidyonov/my_package/classes'),
 );

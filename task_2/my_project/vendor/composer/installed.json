@@ -7,18 +7,26 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/andhellen/my_package.git",
-                "reference": "657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6"
+                "reference": "88dc09b3e71ff009e253e1286f35caf6930d3588"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andhellen/my_package/zipball/657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6",
-                "reference": "657821ab5f2cc51db18843a7f4d1c5d98e7c5cb6",
+                "url": "https://api.github.com/repos/andhellen/my_package/zipball/88dc09b3e71ff009e253e1286f35caf6930d3588",
+                "reference": "88dc09b3e71ff009e253e1286f35caf6930d3588",
                 "shasum": ""
             },
-            "time": "2021-01-07T18:13:08+00:00",
+            "require": {
+                "andrey_naidyonov/my_package": "*"
+            },
+            "time": "2021-01-09T13:45:10+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "andrey_naidyonov\\my_package\\": "classes"
+                }
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"

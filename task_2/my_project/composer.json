@@ -5,6 +5,6 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-	"andrey_naidyonov/my_package":"*"
+		"andrey_naidyonov/my_package": "*"
     }
 }
